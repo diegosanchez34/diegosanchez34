@@ -39,3 +39,8 @@ Estoy buscando nuevos desafíos profesionales donde pueda seguir creciendo como 
 📧 **Email:** diegosanchez1234567@gmail.com  
 📞 **Teléfono:** +56 9 5610 3810  
 🔗 **LinkedIn:** [diego-sanchez-46931013b](https://www.linkedin.com/in/diego-sanchez-46931013b/)
+
+## 📄 Curriculum Vitae
+
+Para una visión más detallada de mi experiencia profesional y formación, puede consultar mi [Curriculum Vitae](./Curriculum%20Vitae%20Diego%20(Español).pdf).
+
