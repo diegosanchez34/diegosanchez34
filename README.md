@@ -2,7 +2,7 @@
 
 ## 🚀 Sobre mí
 
-Soy Analista Programador Computacional titulado con experiencia en el desarrollo de aplicaciones web, diseño de sistemas y administración de sitios. Me especializo en la creación de soluciones prácticas para empresas, combinando eficiencia, escalabilidad y diseño funcional.
+Soy Ingeniero Informático titulado con experiencia en el desarrollo de aplicaciones web, diseño de sistemas y administración de sitios. Me especializo en la creación de soluciones prácticas para empresas, combinando eficiencia, escalabilidad y diseño funcional.
 
 Actualmente lidero el desarrollo tecnológico de **De La Cruz Lavandería**, donde he construido sistemas internos y su presencia web desde cero.
 
